@@ -7,7 +7,7 @@
 ## Google × Kaggle AI Agents Capstone Project
 - **Track**: Agents for Good  
 - **Submission Version**: MVP (Model-Context-Protocol & Google ADK Integrated)
-- **Repository**: [ANUKOOL324/krishi-saarthi-ai](https://github.com/ANUKOOL324/krishi-saarthi-ai)
+- **Repository**: [ANUKOOL324/krishi_saarthi](https://github.com/ANUKOOL324/krishi_saarthi)
 
 ---
 

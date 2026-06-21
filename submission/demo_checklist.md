@@ -36,7 +36,7 @@ Prepare your environment before recording the presentation video or demonstratin
 Review and check off these items before submitting your capstone entry:
 
 - [ ] **GitHub Repository Public?**
-  - Ensure the repository `ANUKOOL324/krishi-saarthi-ai` is set to **Public** so judges can view the codebase.
+  - Ensure the repository `ANUKOOL324/krishi_saarthi` is set to **Public** so judges can view the codebase.
 - [ ] **README Complete?**
   - Verify `README.md` includes the problem statement, track declaration, system flows, security checks, and future improvements.
 - [ ] **API Keys & `.env` Sanitized?**
