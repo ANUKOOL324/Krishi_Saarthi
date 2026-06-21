@@ -85,7 +85,7 @@ The system employs a sequential **Chain-of-Reasoning** workflow coordinated by t
 3.  **Crop Agent**: Matches soil chemistry indicators (NPK, pH) to agricultural crop requirements, explaining *why* specific crops are suitable.
 4.  **Market Agent**: Queries regional market APMC prices for commodities of interest, pointing out optimal selling ranges and locations.
 5.  **Safety Agent**: Audits the recommendations for sustainability, flagging excessive chemical use or water-heavy crops in drought regions.
-6.  **Report Agent**: Consolidates intermediate agent inputs into a farmer-friendly Weekly Action Plan, including a Sunday-to-Monday tasks table.
+6.  **Report Agent**: Consolidates intermediate agent inputs into a farmer-friendly Weekly Action Plan, including a Monday-to-Sunday task table.
 
 ---
 
@@ -165,7 +165,7 @@ collected 8 items
 tests\test_agents.py ...                                       [ 37%]
 tests\test_tools.py .....                                      [100%]
 
-================== 8 passed, 4 warnings in 14.88s ==================
+================== 8 passed ==================
 ```
 
 ---

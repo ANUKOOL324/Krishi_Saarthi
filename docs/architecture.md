@@ -18,7 +18,7 @@ graph TD
     User([Farmer / UI Client])
     Streamlit[Streamlit UI Dashboard]
     
-    subgraph Multi-Agent Layer (Google ADK)
+    subgraph agents["Multi-Agent Layer (Google ADK)"]
         Coord[Coordinator Agent]
         WeatherAgent[Weather Agent]
         CropAgent[Crop Suitability Agent]
@@ -27,13 +27,13 @@ graph TD
         ReportAgent[Report Agent]
     end
 
-    subgraph Tool Layer (FastMCP Server)
+    subgraph tools["Tool Layer (FastMCP Server)"]
         get_weather[get_weather Tool]
         recommend_crop[recommend_crop Tool]
         get_mandi_price[get_mandi_price Tool]
     end
 
-    subgraph Data & API Layer
+    subgraph data["Data & API Layer"]
         OM_API[Open-Meteo REST API]
         Crop_CSV[(crop_recommendation.csv)]
         Mandi_CSV[(mandi_prices.csv)]
@@ -73,5 +73,5 @@ graph TD
 
 1.  **Streamlit Dashboard**: Responsive, styled UI with NPK indicators, weather tabs, mandi tables, and progress loggers.
 2.  **Coordinator Agent**: Sequential async engine written in Python that orchestrates execution, passing inputs from one agent's response to the next.
-3.  **MCP Tools**: Exposes REST API calling, machine learning queries, and local pandas indexing to decoupling implementation details from agent planning.
+3.  **MCP Tools**: Exposes REST API calling, machine learning queries, and local pandas indexing to decouple implementation details from agent planning.
 4.  **Specialist Agents**: Modular LLM agents configured with custom instructions to focus on specific tasks (meteorology, agronomy, marketing, environmental safety, and technical reports).

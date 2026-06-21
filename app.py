@@ -192,7 +192,8 @@ div[data-testid="StyledLinkIconContainer"] {
 .main-title {
     color: #1E4620;
     font-weight: 800;
-    font-size: 3.5rem;
+    font-size: clamp(2.2rem, 5vw, 3.5rem);
+    line-height: 1.08;
     margin-bottom: 2px;
 }
 
