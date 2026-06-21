@@ -1,0 +1,120 @@
+commodity,state,district,market,min_price,max_price,modal_price,date
+rice,Punjab,Amritsar,Amritsar Mandi,2196,2579,2388,2026-06-14
+rice,Punjab,Amritsar,Amritsar Mandi,2122,2491,2307,2026-06-15
+rice,Punjab,Amritsar,Amritsar Mandi,2262,2655,2459,2026-06-16
+rice,Punjab,Amritsar,Amritsar Mandi,2139,2511,2325,2026-06-17
+rice,Punjab,Amritsar,Amritsar Mandi,2258,2651,2455,2026-06-18
+rice,Punjab,Amritsar,Amritsar Mandi,2114,2481,2298,2026-06-19
+rice,Punjab,Amritsar,Amritsar Mandi,2192,2573,2383,2026-06-20
+rice,Haryana,Karnal,Karnal Mandi,2196,2577,2387,2026-06-14
+rice,Haryana,Karnal,Karnal Mandi,2282,2679,2481,2026-06-15
+rice,Haryana,Karnal,Karnal Mandi,2259,2652,2456,2026-06-16
+rice,Haryana,Karnal,Karnal Mandi,2172,2549,2361,2026-06-17
+rice,Haryana,Karnal,Karnal Mandi,2359,2770,2565,2026-06-18
+rice,Haryana,Karnal,Karnal Mandi,2199,2582,2391,2026-06-19
+rice,Haryana,Karnal,Karnal Mandi,2154,2529,2342,2026-06-20
+rice,Uttar Pradesh,Lucknow,Lucknow Main,1934,2271,2103,2026-06-14
+rice,Uttar Pradesh,Lucknow,Lucknow Main,2063,2422,2243,2026-06-15
+rice,Uttar Pradesh,Lucknow,Lucknow Main,2058,2417,2238,2026-06-16
+rice,Uttar Pradesh,Lucknow,Lucknow Main,2083,2446,2265,2026-06-17
+rice,Uttar Pradesh,Lucknow,Lucknow Main,2028,2381,2205,2026-06-18
+rice,Uttar Pradesh,Lucknow,Lucknow Main,1989,2334,2162,2026-06-19
+rice,Uttar Pradesh,Lucknow,Lucknow Main,2043,2398,2221,2026-06-20
+wheat,Punjab,Amritsar,Amritsar Mandi,2030,2383,2207,2026-06-14
+wheat,Punjab,Amritsar,Amritsar Mandi,2031,2384,2208,2026-06-15
+wheat,Punjab,Amritsar,Amritsar Mandi,2076,2437,2257,2026-06-16
+wheat,Punjab,Amritsar,Amritsar Mandi,1988,2333,2161,2026-06-17
+wheat,Punjab,Amritsar,Amritsar Mandi,2036,2391,2214,2026-06-18
+wheat,Punjab,Amritsar,Amritsar Mandi,2167,2544,2356,2026-06-19
+wheat,Punjab,Amritsar,Amritsar Mandi,2084,2447,2266,2026-06-20
+wheat,Uttar Pradesh,Lucknow,Lucknow Main,1982,2327,2155,2026-06-14
+wheat,Uttar Pradesh,Lucknow,Lucknow Main,2060,2419,2240,2026-06-15
+wheat,Uttar Pradesh,Lucknow,Lucknow Main,1955,2295,2125,2026-06-16
+wheat,Uttar Pradesh,Lucknow,Lucknow Main,2024,2376,2200,2026-06-17
+wheat,Uttar Pradesh,Lucknow,Lucknow Main,1966,2307,2137,2026-06-18
+wheat,Uttar Pradesh,Lucknow,Lucknow Main,2006,2355,2181,2026-06-19
+wheat,Uttar Pradesh,Lucknow,Lucknow Main,1926,2261,2094,2026-06-20
+wheat,Madhya Pradesh,Indore,Indore Choithram,2064,2423,2244,2026-06-14
+wheat,Madhya Pradesh,Indore,Indore Choithram,2185,2566,2376,2026-06-15
+wheat,Madhya Pradesh,Indore,Indore Choithram,2138,2509,2324,2026-06-16
+wheat,Madhya Pradesh,Indore,Indore Choithram,2201,2584,2393,2026-06-17
+wheat,Madhya Pradesh,Indore,Indore Choithram,2037,2392,2215,2026-06-18
+wheat,Madhya Pradesh,Indore,Indore Choithram,2047,2404,2226,2026-06-19
+wheat,Madhya Pradesh,Indore,Indore Choithram,2166,2543,2355,2026-06-20
+maize,Karnataka,Dharwad,Dharwad Mandi,1800,2113,1957,2026-06-14
+maize,Karnataka,Dharwad,Dharwad Mandi,1782,2093,1938,2026-06-15
+maize,Karnataka,Dharwad,Dharwad Mandi,1680,1973,1827,2026-06-16
+maize,Karnataka,Dharwad,Dharwad Mandi,1777,2086,1932,2026-06-17
+maize,Karnataka,Dharwad,Dharwad Mandi,1781,2090,1936,2026-06-18
+maize,Karnataka,Dharwad,Dharwad Mandi,1746,2049,1898,2026-06-19
+maize,Karnataka,Dharwad,Dharwad Mandi,1790,2101,1946,2026-06-20
+maize,Bihar,Patna,Patna Gola,1745,2048,1897,2026-06-14
+maize,Bihar,Patna,Patna Gola,1641,1926,1784,2026-06-15
+maize,Bihar,Patna,Patna Gola,1782,2093,1938,2026-06-16
+maize,Bihar,Patna,Patna Gola,1631,1914,1773,2026-06-17
+maize,Bihar,Patna,Patna Gola,1753,2058,1906,2026-06-18
+maize,Bihar,Patna,Patna Gola,1707,2004,1856,2026-06-19
+maize,Bihar,Patna,Patna Gola,1617,1898,1758,2026-06-20
+cotton,Gujarat,Rajkot,Rajkot Yard,6173,7246,6710,2026-06-14
+cotton,Gujarat,Rajkot,Rajkot Yard,6146,7215,6681,2026-06-15
+cotton,Gujarat,Rajkot,Rajkot Yard,6340,7443,6892,2026-06-16
+cotton,Gujarat,Rajkot,Rajkot Yard,5986,7027,6507,2026-06-17
+cotton,Gujarat,Rajkot,Rajkot Yard,6279,7372,6826,2026-06-18
+cotton,Gujarat,Rajkot,Rajkot Yard,6378,7487,6933,2026-06-19
+cotton,Gujarat,Rajkot,Rajkot Yard,6117,7180,6649,2026-06-20
+cotton,Maharashtra,Nagpur,Nagpur Kalamna,6047,7098,6573,2026-06-14
+cotton,Maharashtra,Nagpur,Nagpur Kalamna,6451,7574,7013,2026-06-15
+cotton,Maharashtra,Nagpur,Nagpur Kalamna,6052,7105,6579,2026-06-16
+cotton,Maharashtra,Nagpur,Nagpur Kalamna,6210,7291,6751,2026-06-17
+cotton,Maharashtra,Nagpur,Nagpur Kalamna,6043,7094,6569,2026-06-18
+cotton,Maharashtra,Nagpur,Nagpur Kalamna,6623,7774,7199,2026-06-19
+cotton,Maharashtra,Nagpur,Nagpur Kalamna,6257,7346,6802,2026-06-20
+chickpea,Madhya Pradesh,Bhopal,Karond Mandi,4723,5544,5134,2026-06-14
+chickpea,Madhya Pradesh,Bhopal,Karond Mandi,4601,5402,5002,2026-06-15
+chickpea,Madhya Pradesh,Bhopal,Karond Mandi,4575,5370,4973,2026-06-16
+chickpea,Madhya Pradesh,Bhopal,Karond Mandi,4596,5395,4996,2026-06-17
+chickpea,Madhya Pradesh,Bhopal,Karond Mandi,4704,5523,5114,2026-06-18
+chickpea,Madhya Pradesh,Bhopal,Karond Mandi,4529,5316,4923,2026-06-19
+chickpea,Madhya Pradesh,Bhopal,Karond Mandi,4590,5389,4990,2026-06-20
+chickpea,Maharashtra,Latur,Latur Market Yard,4885,5734,5310,2026-06-14
+chickpea,Maharashtra,Latur,Latur Market Yard,4706,5525,5116,2026-06-15
+chickpea,Maharashtra,Latur,Latur Market Yard,4675,5488,5082,2026-06-16
+chickpea,Maharashtra,Latur,Latur Market Yard,4554,5346,4950,2026-06-17
+chickpea,Maharashtra,Latur,Latur Market Yard,4849,5692,5271,2026-06-18
+chickpea,Maharashtra,Latur,Latur Market Yard,4901,5754,5328,2026-06-19
+chickpea,Maharashtra,Latur,Latur Market Yard,4643,5450,5047,2026-06-20
+potato,Uttar Pradesh,Agra,Agra Fatehabad,1135,1332,1234,2026-06-14
+potato,Uttar Pradesh,Agra,Agra Fatehabad,1117,1312,1215,2026-06-15
+potato,Uttar Pradesh,Agra,Agra Fatehabad,1111,1304,1208,2026-06-16
+potato,Uttar Pradesh,Agra,Agra Fatehabad,1097,1288,1193,2026-06-17
+potato,Uttar Pradesh,Agra,Agra Fatehabad,1094,1285,1190,2026-06-18
+potato,Uttar Pradesh,Agra,Agra Fatehabad,1085,1274,1180,2026-06-19
+potato,Uttar Pradesh,Agra,Agra Fatehabad,1092,1283,1188,2026-06-20
+potato,West Bengal,Hooghly,Sheoraphuly Mandi,1229,1442,1336,2026-06-14
+potato,West Bengal,Hooghly,Sheoraphuly Mandi,1311,1539,1425,2026-06-15
+potato,West Bengal,Hooghly,Sheoraphuly Mandi,1349,1584,1467,2026-06-16
+potato,West Bengal,Hooghly,Sheoraphuly Mandi,1337,1570,1454,2026-06-17
+potato,West Bengal,Hooghly,Sheoraphuly Mandi,1259,1478,1369,2026-06-18
+potato,West Bengal,Hooghly,Sheoraphuly Mandi,1238,1453,1346,2026-06-19
+potato,West Bengal,Hooghly,Sheoraphuly Mandi,1250,1467,1359,2026-06-20
+mustard,Rajasthan,Alwar,Alwar Mandi,4811,5648,5230,2026-06-14
+mustard,Rajasthan,Alwar,Alwar Mandi,4852,5695,5274,2026-06-15
+mustard,Rajasthan,Alwar,Alwar Mandi,4907,5760,5334,2026-06-16
+mustard,Rajasthan,Alwar,Alwar Mandi,5099,5986,5543,2026-06-17
+mustard,Rajasthan,Alwar,Alwar Mandi,4985,5852,5419,2026-06-18
+mustard,Rajasthan,Alwar,Alwar Mandi,4856,5701,5279,2026-06-19
+mustard,Rajasthan,Alwar,Alwar Mandi,4820,5659,5240,2026-06-20
+mustard,Haryana,Karnal,Karnal Mandi,5037,5914,5476,2026-06-14
+mustard,Haryana,Karnal,Karnal Mandi,5107,5996,5552,2026-06-15
+mustard,Haryana,Karnal,Karnal Mandi,4772,5601,5187,2026-06-16
+mustard,Haryana,Karnal,Karnal Mandi,4832,5673,5253,2026-06-17
+mustard,Haryana,Karnal,Karnal Mandi,4774,5605,5190,2026-06-18
+mustard,Haryana,Karnal,Karnal Mandi,4923,5780,5352,2026-06-19
+mustard,Haryana,Karnal,Karnal Mandi,5107,5996,5552,2026-06-20
+coffee,Karnataka,Chikmagalur,Chikmagalur APMC,16738,19649,18194,2026-06-14
+coffee,Karnataka,Chikmagalur,Chikmagalur APMC,16237,19060,17649,2026-06-15
+coffee,Karnataka,Chikmagalur,Chikmagalur APMC,16198,19015,17607,2026-06-16
+coffee,Karnataka,Chikmagalur,Chikmagalur APMC,15884,18647,17266,2026-06-17
+coffee,Karnataka,Chikmagalur,Chikmagalur APMC,16502,19373,17938,2026-06-18
+coffee,Karnataka,Chikmagalur,Chikmagalur APMC,15789,18536,17163,2026-06-19
+coffee,Karnataka,Chikmagalur,Chikmagalur APMC,16443,19302,17873,2026-06-20
