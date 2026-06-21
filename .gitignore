@@ -1,0 +1,88 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+.tox/
+.nox/
+.cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Secrets and local environment files
+.env
+.env.*
+!.env.example
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.streamlit/secrets.toml
+secrets.toml
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Tests, coverage, and logs
+.coverage
+.coverage.*
+htmlcov/
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+logs/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local AI tooling and knowledge-base artifacts
+.antigravity/
+antigravity/
+**/artifact/
+**/artifacts/
+**/brain/
+.obsidian/
+**/.obsidian/
+obsidian-vault/
+vault/
+
+# Temporary and generated files
+tmp/
+temp/
+*.tmp
+*.bak
+*.orig
+.review-screenshots/
+build/
+dist/
+*.egg-info/
+
+# Raw demo recordings are hosted externally, not committed
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# Small sample CSVs in data/ are committed for the demo.
+# Run `python src/utils/generate_data.py` to regenerate them with fresh dates.
