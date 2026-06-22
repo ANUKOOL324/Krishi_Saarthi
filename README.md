@@ -8,6 +8,7 @@
 - **Track**: Agents for Good  
 - **Submission Version**: MVP (Model-Context-Protocol & Google ADK Integrated)
 - **Repository**: [ANUKOOL324/krishi_saarthi](https://github.com/ANUKOOL324/krishi_saarthi)
+- **Demo Video**: [Walkthrough Video](https://youtu.be/rMkZBJie4Qg?si=YMEqJkj_JTVIVFzI)
 
 ---
 
