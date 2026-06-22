@@ -291,10 +291,10 @@ run_mode = st.sidebar.selectbox(
 
 if run_mode == "Gemini":
     if not os.environ.get("GEMINI_API_KEY"):
-        st.sidebar.error("GEMINI_API_KEY missing from environment.")
+        st.sidebar.error("GEMINI_API_KEY missing. Please enter your API key in the 'Technical Settings' section below.")
 elif run_mode == "OpenRouter fallback":
     if not os.environ.get("OPENROUTER_API_KEY"):
-        st.sidebar.error("OPENROUTER_API_KEY missing from environment.")
+        st.sidebar.error("OPENROUTER_API_KEY missing. Please enter your API key in the 'Technical Settings' section below.")
 
 st.sidebar.markdown("---")
 st.sidebar.markdown("### Soil inputs")
