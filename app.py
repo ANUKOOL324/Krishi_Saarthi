@@ -317,11 +317,11 @@ if run_mode != "Offline demo":
     st.sidebar.markdown("---")
     with st.sidebar.expander("Technical Settings", expanded=False):
         if run_mode == "Gemini":
-            override_gemini = st.text_input("Temporary Gemini Key", type="password")
+            override_gemini = st.text_input("Gemini API Key", type="password")
             if override_gemini:
                 os.environ["GEMINI_API_KEY"] = override_gemini
         elif run_mode == "OpenRouter fallback":
-            override_or = st.text_input("Temporary OpenRouter Key", type="password")
+            override_or = st.text_input("OpenRouter API Key", type="password")
             if override_or:
                 os.environ["OPENROUTER_API_KEY"] = override_or
 
